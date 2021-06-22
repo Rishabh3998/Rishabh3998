@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my personal website [findrishabh]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become a competitive Programmer
-- ⚡ Fun fact: I love coding and also skilled in 3D Software [Blender][Blender]
+- ⚡ Fun fact: I am also skilled in 3D Software [Blender][Blender]
 - 🎭 Portfolio: I post my 3D renders on [Behance][Behance]!
 
 ### Connect with me:
