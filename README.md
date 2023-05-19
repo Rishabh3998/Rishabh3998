@@ -1,10 +1,8 @@
 ### Hi there, I'm Rishabh Kumar 👋
 
-## I'm a Student and a Developer
+## I'm a professional software developer
 
-- 🔭 I’m currently working on my personal website [findrishabh]!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become a competitive Programmer
+- 🔭 I’m currently working as SDE-1 at Attentive AI
 - ⚡ Fun fact: I am also skilled in 3D Software [Blender][Blender]
 - 🎭 Portfolio: I post my 3D renders on [Behance][Behance]!
 
