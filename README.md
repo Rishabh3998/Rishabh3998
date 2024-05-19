@@ -5,7 +5,7 @@
 ### Hi there, I'm Rishabh Kumar 👋
 
 - 🔭 **I’m currently working** <br>as SDE-1 at Attentive AI.<br><br>
-- 🌱 **I’m currently learning:**  <br>Mobile development with React native.<br><br>
+- 🌱 **I’m currently learning:**  <br>System design<br><br>
 - 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 - 💬 **Ask me about:**  <br>JavaScript, React, React native, Flutter, Node.js, and any general software development questions.<br><br>
 - ⚡ **Fun fact:** <br>I am also skilled in 3D Software. [Blender][Blender]<br><br>
