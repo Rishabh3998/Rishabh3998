@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Rishabh Kumar 👋
 
-- 🔭 **I’m currently working** <br>as SWE at Paytm.<br><br>
+- 🔭 **I’m currently working** <br>as SWE at Tekion.<br><br>
 - 🌱 **I’m currently learning:**  <br>Next.js<br><br>
 - 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 - 💬 **Ask me about:**  <br>JavaScript, React, React native, Flutter, Node.js, and any general software development questions.<br><br>
