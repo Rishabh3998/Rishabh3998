@@ -8,8 +8,6 @@
 - 🌱 **I’m currently learning:**  <br>Java, Spring<br><br>
 - 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 - 💬 **Ask me about:**  <br>JavaScript, React, React native, Flutter, Node.js, and any general software development questions.<br><br>
-- ⚡ **Fun fact:** <br>I am also skilled in 3D Software. [Blender][Blender]<br><br>
-- 🎭 **Portfolio:** <br>I post my 3D renders on [Behance][Behance]!<br><br>
 
 ## 🌐 Connect with me::
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rishabh06456868) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kumar-3091998/) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rishabhkumar23)
