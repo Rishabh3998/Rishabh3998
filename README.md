@@ -4,10 +4,10 @@
 
 ### Hi there, I'm Rishabh Kumar 👋
 
-- 🔭 **I’m currently working** <br>as SWE at Tekion.<br><br>
+- 🔭 **I’m currently working** <br>as a Software Engineer at Tekion.<br><br>
 - 🌱 **I’m currently learning:**  <br>Java, Spring boot<br><br>
-- 👯 **I’m looking to collaborate on:**  <br>Backend projects<br><br>
-- 💬 **Ask me about:**  <br>JavaScript, React, React native, Flutter, Node.js, and any general software development questions.<br><br>
+- 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
+- 💬 **Ask me about:**  <br>JavaScript, React, Next, React native, Flutter, Node.js, and any general software development questions.<br><br>
 
 ## 🌐 Connect with me::
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rishabh06456868) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kumar-3091998/)
